@@ -42,6 +42,7 @@ SUPPORTED_MODEL = {
     "mtl_transformer_ctc": MtlTransformerCtc,
     "mpc": MaskedPredictCoding,
     "rnnlm": RNNLM,
+    "transformerlm": TransformerLM,
     "translate_transformer": NeuralTranslateTransformer,
     "tacotron2": Tacotron2,
     "stargan" : StarganModel,

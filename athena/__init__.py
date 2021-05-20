@@ -57,6 +57,7 @@ from .models.masked_pc import MaskedPredictCoding
 from .models.deep_speech import DeepSpeechModel
 from .models.mtl_seq2seq import MtlTransformerCtc
 from .models.rnn_lm import RNNLM
+from .models.transformer_lm import TransformerLM
 from .models.translate_transformer import NeuralTranslateTransformer
 from .models.stargan_vc import StarganModel
 from .models.speaker_resnet import SpeakerResnet
